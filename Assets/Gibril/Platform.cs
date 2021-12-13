@@ -35,4 +35,14 @@ public class Platform : MonoBehaviour
     {
         Gizmos.DrawLine(pos1.position, pos2.position);
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        collision.transform.SetParent(transform);
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        collision.transform.SetParent(null);
+    }
 }
