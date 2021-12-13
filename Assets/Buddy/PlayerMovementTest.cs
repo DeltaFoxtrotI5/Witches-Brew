@@ -8,6 +8,11 @@ public class PlayerMovementTest : MonoBehaviour
     public float movementSpeed = 1;
     public float JumpForce = 1;
 
+
+    public ProgectileBehavior ProjectilePrefab;
+    public Transform launchOffset;
+
+
     private Rigidbody2D _rigidbody;
 
     private void Start()
@@ -24,6 +29,12 @@ public class PlayerMovementTest : MonoBehaviour
         {
             _rigidbody.AddForce(new Vector2(0, JumpForce), ForceMode2D.Impulse);
         }
+
+        if (Input.GetButtonDown("Fire1"))
+        {
+            Instantiate(ProjectilePrefab, launchOffset.position, transform.rotation);
+        }
+
     }
 }
 
