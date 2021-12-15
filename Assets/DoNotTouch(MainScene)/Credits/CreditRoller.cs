@@ -5,7 +5,7 @@ using UnityEngine;
 public class CreditRoller : MonoBehaviour
 {
 
-    private static int nScreens = 3;
+    private static int nScreens = 6;
     private GameObject[] creditScenes = new GameObject[nScreens];
     private static int swapCount = 0;
 
