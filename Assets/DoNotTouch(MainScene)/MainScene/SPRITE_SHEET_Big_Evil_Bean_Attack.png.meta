@@ -1,31 +1,25 @@
 fileFormatVersion: 2
-guid: dbf95d8fb65ccf549b41a0e139494591
+guid: b73485db19d1b544ea66bf63a389291c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7198871205247990580
-    second: Charlotte Idle_0
+      213: -6774708007128166812
+    second: SPRITE_SHEET_Big_Evil_Bean_Attack_0
   - first:
-      213: -8401219565492904857
-    second: Charlotte Idle_1
+      213: 5580887568259757190
+    second: SPRITE_SHEET_Big_Evil_Bean_Attack_1
   - first:
-      213: 285914768453063447
-    second: Charlotte Idle_2
+      213: 1652697324882259294
+    second: SPRITE_SHEET_Big_Evil_Bean_Attack_2
   - first:
-      213: 4096409270164355428
-    second: Charlotte Idle_3
+      213: -1300132148140381258
+    second: SPRITE_SHEET_Big_Evil_Bean_Attack_3
   - first:
-      213: -8017013094553851425
-    second: Charlotte Idle_4
+      213: -7608958693957692595
+    second: SPRITE_SHEET_Big_Evil_Bean_Attack_4
   - first:
-      213: 8038021248030723229
-    second: Charlotte Idle_5
-  - first:
-      213: -7520666487924351047
-    second: Charlotte Idle_6
-  - first:
-      213: -7518873794027950836
-    second: Charlotte Idle_7
+      213: -6528913752129627013
+    second: SPRITE_SHEET_Big_Evil_Bean_Attack_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -147,13 +141,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Charlotte Idle_0
+      name: SPRITE_SHEET_Big_Evil_Bean_Attack_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 35
-        height: 53
+        width: 40
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc4c763b7c8781c90800000000000000
-      internalID: -7198871205247990580
+      spriteID: 46e812226f66bf1a0800000000000000
+      internalID: -6774708007128166812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charlotte Idle_1
+      name: SPRITE_SHEET_Big_Evil_Bean_Attack_1
       rect:
         serializedVersion: 2
-        x: 35
+        x: 40
         y: 0
-        width: 35
-        height: 53
+        width: 40
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,20 +176,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76cdbb6115fd86b80800000000000000
-      internalID: -8401219565492904857
+      spriteID: 684348dacab437d40800000000000000
+      internalID: 5580887568259757190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charlotte Idle_2
+      name: SPRITE_SHEET_Big_Evil_Bean_Attack_2
       rect:
         serializedVersion: 2
-        x: 70
+        x: 80
         y: 0
-        width: 35
-        height: 53
+        width: 40
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,20 +197,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 713dea197f5c7f300800000000000000
-      internalID: 285914768453063447
+      spriteID: e5d68dae57f8fe610800000000000000
+      internalID: 1652697324882259294
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charlotte Idle_3
+      name: SPRITE_SHEET_Big_Evil_Bean_Attack_3
       rect:
         serializedVersion: 2
-        x: 105
+        x: 120
         y: 0
-        width: 35
-        height: 53
+        width: 40
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,20 +218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46973ca078e59d830800000000000000
-      internalID: 4096409270164355428
+      spriteID: 6bbe60d13b005fde0800000000000000
+      internalID: -1300132148140381258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charlotte Idle_4
+      name: SPRITE_SHEET_Big_Evil_Bean_Attack_4
       rect:
         serializedVersion: 2
-        x: 140
+        x: 160
         y: 0
-        width: 35
-        height: 53
+        width: 40
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,20 +239,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd966730119ddb090800000000000000
-      internalID: -8017013094553851425
+      spriteID: d431800c16c876690800000000000000
+      internalID: -7608958693957692595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charlotte Idle_5
+      name: SPRITE_SHEET_Big_Evil_Bean_Attack_5
       rect:
         serializedVersion: 2
-        x: 175
+        x: 200
         y: 0
-        width: 35
-        height: 53
+        width: 40
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,50 +260,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9cc9e1ecb9cc8f60800000000000000
-      internalID: 8038021248030723229
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charlotte Idle_6
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 0
-        width: 35
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9bf9519eca931a790800000000000000
-      internalID: -7520666487924351047
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charlotte Idle_7
-      rect:
-        serializedVersion: 2
-        x: 245
-        y: 0
-        width: 35
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c0d68fbfe1897a790800000000000000
-      internalID: -7518873794027950836
+      spriteID: b7c962bb883a465a0800000000000000
+      internalID: -6528913752129627013
       vertices: []
       indices: 
       edges: []
