@@ -1,31 +1,31 @@
 fileFormatVersion: 2
-guid: dbf95d8fb65ccf549b41a0e139494591
+guid: d2672073e1ac17b4b894204fe0bf1058
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7198871205247990580
-    second: Charlotte Idle_0
+      213: -1357661237898605122
+    second: Charlotte_Walk_Sprite_Sheet_copy_0
   - first:
-      213: -8401219565492904857
-    second: Charlotte Idle_1
+      213: 8570797036264276210
+    second: Charlotte_Walk_Sprite_Sheet_copy_1
   - first:
-      213: 285914768453063447
-    second: Charlotte Idle_2
+      213: -2845355755988597271
+    second: Charlotte_Walk_Sprite_Sheet_copy_2
   - first:
-      213: 4096409270164355428
-    second: Charlotte Idle_3
+      213: -8922279424067423772
+    second: Charlotte_Walk_Sprite_Sheet_copy_3
   - first:
-      213: -8017013094553851425
-    second: Charlotte Idle_4
+      213: 7622951200782834163
+    second: Charlotte_Walk_Sprite_Sheet_copy_4
   - first:
-      213: 8038021248030723229
-    second: Charlotte Idle_5
+      213: -4983718430153738518
+    second: Charlotte_Walk_Sprite_Sheet_copy_5
   - first:
-      213: -7520666487924351047
-    second: Charlotte Idle_6
+      213: -8812558728425964129
+    second: Charlotte_Walk_Sprite_Sheet_copy_6
   - first:
-      213: -7518873794027950836
-    second: Charlotte Idle_7
+      213: -7401829551053222336
+    second: Charlotte_Walk_Sprite_Sheet_copy_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -147,13 +147,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Charlotte Idle_0
+      name: Charlotte_Walk_Sprite_Sheet_copy_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 35
-        height: 53
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc4c763b7c8781c90800000000000000
-      internalID: -7198871205247990580
+      spriteID: ebd8cbd1c4e982de0800000000000000
+      internalID: -1357661237898605122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charlotte Idle_1
+      name: Charlotte_Walk_Sprite_Sheet_copy_1
       rect:
         serializedVersion: 2
         x: 35
         y: 0
         width: 35
-        height: 53
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,20 +182,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76cdbb6115fd86b80800000000000000
-      internalID: -8401219565492904857
+      spriteID: 2f0c0849e7691f670800000000000000
+      internalID: 8570797036264276210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charlotte Idle_2
+      name: Charlotte_Walk_Sprite_Sheet_copy_2
       rect:
         serializedVersion: 2
         x: 70
         y: 0
         width: 35
-        height: 53
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,20 +203,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 713dea197f5c7f300800000000000000
-      internalID: 285914768453063447
+      spriteID: 9e5cfa8e3044388d0800000000000000
+      internalID: -2845355755988597271
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charlotte Idle_3
+      name: Charlotte_Walk_Sprite_Sheet_copy_3
       rect:
         serializedVersion: 2
         x: 105
         y: 0
         width: 35
-        height: 53
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46973ca078e59d830800000000000000
-      internalID: 4096409270164355428
+      spriteID: 4e13fa5d222bd2480800000000000000
+      internalID: -8922279424067423772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charlotte Idle_4
+      name: Charlotte_Walk_Sprite_Sheet_copy_4
       rect:
         serializedVersion: 2
         x: 140
         y: 0
         width: 35
-        height: 53
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,20 +245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd966730119ddb090800000000000000
-      internalID: -8017013094553851425
+      spriteID: 3f95cce9ab92ac960800000000000000
+      internalID: 7622951200782834163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charlotte Idle_5
+      name: Charlotte_Walk_Sprite_Sheet_copy_5
       rect:
         serializedVersion: 2
         x: 175
         y: 0
         width: 35
-        height: 53
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,20 +266,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9cc9e1ecb9cc8f60800000000000000
-      internalID: 8038021248030723229
+      spriteID: ae67e1e1e7646dab0800000000000000
+      internalID: -4983718430153738518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charlotte Idle_6
+      name: Charlotte_Walk_Sprite_Sheet_copy_6
       rect:
         serializedVersion: 2
         x: 210
         y: 0
         width: 35
-        height: 53
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,20 +287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9bf9519eca931a790800000000000000
-      internalID: -7520666487924351047
+      spriteID: f9df6e5078083b580800000000000000
+      internalID: -8812558728425964129
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charlotte Idle_7
+      name: Charlotte_Walk_Sprite_Sheet_copy_7
       rect:
         serializedVersion: 2
         x: 245
         y: 0
         width: 35
-        height: 53
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,8 +308,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0d68fbfe1897a790800000000000000
-      internalID: -7518873794027950836
+      spriteID: 04ecb796d3b674990800000000000000
+      internalID: -7401829551053222336
       vertices: []
       indices: 
       edges: []
