@@ -627,7 +627,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 549212441}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 11500000, guid: df0525f6c43aa7e458ab470ca79bb3a2, type: 3}
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &549212441
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -857,7 +868,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df0525f6c43aa7e458ab470ca79bb3a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  NewGameScene: 
+  NewGameScene: MainScene
 --- !u!1 &1333904481
 GameObject:
   m_ObjectHideFlags: 0
