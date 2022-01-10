@@ -1791,6 +1791,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc51c82d5bf6fae46855bda23c164c8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movementSpeed: 3.75
+  JumpForce: 10.5
+  ProjectilePrefab: {fileID: 0}
+  launchOffset: {fileID: 0}
 --- !u!1 &2078886125
 GameObject:
   m_ObjectHideFlags: 0
