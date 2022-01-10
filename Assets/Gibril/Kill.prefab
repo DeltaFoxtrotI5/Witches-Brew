@@ -11,9 +11,8 @@ GameObject:
   - component: {fileID: 6646527006357829999}
   - component: {fileID: 6646527006357830000}
   - component: {fileID: 6646527006357830001}
-  - component: {fileID: 6646527006357829998}
   m_Layer: 0
-  m_Name: Reset
+  m_Name: Kill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -111,17 +110,3 @@ PolygonCollider2D:
     - - {x: 0, y: 0.5}
       - {x: -0.4330127, y: -0.25000003}
       - {x: 0.43301272, y: -0.24999996}
---- !u!114 &6646527006357829998
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6646527006357830002}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d94586c3ffd6b34fab4770b7fc07675, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  spawnpoint: {fileID: 0}
-  mainPlayer: {fileID: 0}
