@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Buddy/title test/titleTest.unity
+    guid: ecf4b517ab5b33a4fbc045d67529e9e5
+  - enabled: 1
+    path: Assets/DoNotTouch(MainScene)/MainScene/MainScene.unity
+    guid: 951c6af8144a3094a90b5dedc8f30797
+  - enabled: 1
+    path: Assets/DoNotTouch(MainScene)/Credits/Credits.unity
+    guid: 377bf5328d630df428204cd9df832e57
+  - enabled: 1
+    path: Assets/Buddy/controlls scene/Controlls.unity
+    guid: 7077b261b3c37634fbe37cfc09197b77
   m_configObjects: {}
