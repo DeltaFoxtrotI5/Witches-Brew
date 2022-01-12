@@ -871,7 +871,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df0525f6c43aa7e458ab470ca79bb3a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  NewGameScene: MainScene
+  NewGameScene: GTestLevel
   NewCreditScene: Credits
   ControlScene: Controlls
 --- !u!1 &969102585
