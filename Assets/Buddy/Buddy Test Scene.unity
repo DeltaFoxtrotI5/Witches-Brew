@@ -145,7 +145,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 231763618}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1, y: -0.27, z: 0}
+  m_LocalPosition: {x: 0.84, y: -0.14, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 997787407}
@@ -394,7 +394,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movementSpeed: 3.75
   JumpForce: 10.5
-  ProjectilePrefab: {fileID: 0}
+  ProjectilePrefab: {fileID: 7202194071635671765, guid: 383b76dcf0e3f8b40aaf91f4dfe952ef,
+    type: 3}
   launchOffset: {fileID: 231763619}
 --- !u!61 &997787404
 BoxCollider2D:
@@ -502,7 +503,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 997787401}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.17299664, y: -1.2525321, z: 0}
+  m_LocalPosition: {x: -1.54, y: -0.86, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 231763619}
