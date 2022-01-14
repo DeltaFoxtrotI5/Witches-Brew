@@ -1,31 +1,16 @@
 fileFormatVersion: 2
-guid: dbf95d8fb65ccf549b41a0e139494591
+guid: af257aeddd3afbc4797912ddd760f66b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7198871205247990580
-    second: Charlotte Idle_0
+      213: 7769314537392778431
+    second: Charllote_Shoot_sprite_sheet_copy_0
   - first:
-      213: -8401219565492904857
-    second: Charlotte Idle_1
+      213: -357818737548056267
+    second: Charllote_Shoot_sprite_sheet_copy_1
   - first:
-      213: 285914768453063447
-    second: Charlotte Idle_2
-  - first:
-      213: 4096409270164355428
-    second: Charlotte Idle_3
-  - first:
-      213: -8017013094553851425
-    second: Charlotte Idle_4
-  - first:
-      213: 8038021248030723229
-    second: Charlotte Idle_5
-  - first:
-      213: -7520666487924351047
-    second: Charlotte Idle_6
-  - first:
-      213: -7518873794027950836
-    second: Charlotte Idle_7
+      213: 7371585303693683878
+    second: Charllote_Shoot_sprite_sheet_copy_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -69,7 +54,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 25
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -88,7 +73,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,7 +85,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -112,7 +97,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -124,7 +109,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -136,7 +121,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -147,12 +132,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Charlotte Idle_0
+      name: Charllote_Shoot_sprite_sheet_copy_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 2
         y: 0
-        width: 35
+        width: 37
         height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -161,19 +146,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc4c763b7c8781c90800000000000000
-      internalID: -7198871205247990580
+      spriteID: fbc239d786622db60800000000000000
+      internalID: 7769314537392778431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charlotte Idle_1
+      name: Charllote_Shoot_sprite_sheet_copy_1
       rect:
         serializedVersion: 2
-        x: 35
+        x: 40
         y: 0
-        width: 35
+        width: 38
         height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -182,19 +167,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76cdbb6115fd86b80800000000000000
-      internalID: -8401219565492904857
+      spriteID: 539287601c5c80bf0800000000000000
+      internalID: -357818737548056267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Charlotte Idle_2
+      name: Charllote_Shoot_sprite_sheet_copy_2
       rect:
         serializedVersion: 2
-        x: 70
+        x: 78
         y: 0
-        width: 35
+        width: 39
         height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -203,113 +188,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 713dea197f5c7f300800000000000000
-      internalID: 285914768453063447
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charlotte Idle_3
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 0
-        width: 35
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 46973ca078e59d830800000000000000
-      internalID: 4096409270164355428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charlotte Idle_4
-      rect:
-        serializedVersion: 2
-        x: 140
-        y: 0
-        width: 35
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fd966730119ddb090800000000000000
-      internalID: -8017013094553851425
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charlotte Idle_5
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 0
-        width: 35
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d9cc9e1ecb9cc8f60800000000000000
-      internalID: 8038021248030723229
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charlotte Idle_6
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 0
-        width: 35
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9bf9519eca931a790800000000000000
-      internalID: -7520666487924351047
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Charlotte Idle_7
-      rect:
-        serializedVersion: 2
-        x: 245
-        y: 0
-        width: 35
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c0d68fbfe1897a790800000000000000
-      internalID: -7518873794027950836
+      spriteID: 6ace62207c12d4660800000000000000
+      internalID: 7371585303693683878
       vertices: []
       indices: 
       edges: []
