@@ -729,6 +729,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Charlotte Idle_0
       objectReference: {fileID: 0}
+    - target: {fileID: 2223818104962893347, guid: 8f671a716539d344894188f2cf3b79a4,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 53fe6067c48619b4799d64152ea43ab2, type: 2}
     - target: {fileID: 2223818104962893350, guid: 8f671a716539d344894188f2cf3b79a4,
         type: 3}
       propertyPath: m_RootOrder
@@ -737,12 +742,12 @@ PrefabInstance:
     - target: {fileID: 2223818104962893350, guid: 8f671a716539d344894188f2cf3b79a4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.43
+      value: -0.25
       objectReference: {fileID: 0}
     - target: {fileID: 2223818104962893350, guid: 8f671a716539d344894188f2cf3b79a4,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.48
+      value: -1.42
       objectReference: {fileID: 0}
     - target: {fileID: 2223818104962893350, guid: 8f671a716539d344894188f2cf3b79a4,
         type: 3}
