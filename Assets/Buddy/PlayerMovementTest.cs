@@ -28,7 +28,17 @@ public class PlayerMovementTest : MonoBehaviour
     private void Update()
     {
 
-       
+        float horizvalue = Input.GetAxis("Horizontal");
+
+        if (horizvalue == 0)
+        {
+            a.SetBool("moving", false);
+        }
+        else
+        {
+            a.SetBool("moving", true);
+        }
+
 
         var movement = Input.GetAxis("Horizontal");
         transform.position += new Vector3(movement, 0, 0) * Time.deltaTime * movementSpeed;
