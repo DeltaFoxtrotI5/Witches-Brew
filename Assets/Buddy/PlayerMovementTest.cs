@@ -16,6 +16,7 @@ public class PlayerMovementTest : MonoBehaviour
 
 
     private Rigidbody2D _rigidbody;
+    private bool grounded;
 
     private void Start()
     {
@@ -27,6 +28,9 @@ public class PlayerMovementTest : MonoBehaviour
 
     private void Update()
     {
+
+        a.SetFloat("yVelocity", rb2.velocity);
+        a.SetBool("grounded", grounded);
 
         float horizvalue = Input.GetAxis("Horizontal");
 
